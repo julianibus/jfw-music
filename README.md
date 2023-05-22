@@ -1,5 +1,6 @@
 # music
-A hub for original compositions, arrangements and other scores
+
+Repo for my sheet music. Check [my website](http://jfw.bio/music) for more information.
 
 ---
 
